@@ -1,0 +1,4 @@
+model_name: demo-llm
+provider: openai
+debug: true
+allow_all_origins: true
